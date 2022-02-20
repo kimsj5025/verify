@@ -1,0 +1,6 @@
+name: Discord_verify
+version: '${project.version}'
+main: discord_verify.discord_verify.Discord_verify
+api-version: 1.15
+prefix: discord verify
+load: STARTUP
